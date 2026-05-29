@@ -1,0 +1,9 @@
+{
+  "name": "ev-erp-prototype",
+  "version": "1.0.0",
+  "description": "EV Enterprise ERP Clickable Prototype",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
